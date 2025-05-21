@@ -24,4 +24,4 @@ Kein Setup notwendig. Stelle nur sicher, dass Python installiert ist.
 
 Ein Beispiel zur Nutzung des Codes wäre wiefolgt:
 
-'py "File integrity monitoring.py" --check "C:\Users\Benutzername\Dokumente\wichtiges"'
+`py "File integrity monitoring.py" --check "C:\Users\Benutzername\Dokumente\wichtiges"`
